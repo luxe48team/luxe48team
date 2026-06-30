@@ -1,4 +1,4 @@
-## Hi there 👋
+## welcome to the LUXE48.TEAM... Kami menyediakan informasi JKT48
 
 <!--
 **luxe48team/luxe48team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
